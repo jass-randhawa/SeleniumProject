@@ -1,0 +1,122 @@
+10:39:05.642 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+10:39:06.228 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+10:39:06.230 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+10:39:17.409 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:39:25.752 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+10:39:26.205 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+10:39:26.210 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+10:39:37.167 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:57:17.053 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+10:57:17.619 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+10:57:17.621 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+10:57:36.856 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+11:03:07.780 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:03:08.127 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+11:03:08.132 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:03:18.844 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+11:55:08.942 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:55:09.753 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+11:55:09.755 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:55:20.729 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+12:02:18.224 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+12:02:18.864 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+12:02:18.867 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:02:36.592 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+12:05:21.183 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+12:05:21.736 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+12:05:21.740 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:05:32.771 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:46:43.643 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+10:46:44.612 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+10:46:44.615 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+10:46:55.891 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:53:21.756 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:54:23.747 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:57:36.945 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:59:10.159 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+11:01:43.479 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+12:17:28.524 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:17:50.145 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:17:50.157 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:18:06.441 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:18:06.445 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:18:27.122 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:18:27.125 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:23:59.378 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:24:23.278 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:24:23.311 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:24:43.933 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:24:43.948 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:25:05.486 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:25:05.496 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:30:44.530 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:05.372 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:31:05.386 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:24.699 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:31:24.714 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:48.018 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:31:48.034 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:34:19.836 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:34:41.235 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:34:41.454 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:35:00.835 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:35:00.840 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:35:21.562 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:35:21.578 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:37:17.611 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:37:38.506 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+04:37:38.525 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:38:02.452 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+04:38:02.455 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:38:23.407 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+04:38:23.410 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:40:32.133 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:40:51.763 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+04:40:51.789 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:41:08.204 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+04:41:08.213 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:41:27.796 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+04:41:27.802 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:43:24.026 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:43:43.713 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+04:43:43.727 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:44:11.782 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+04:44:11.795 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+04:44:31.034 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+04:44:31.046 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:01:41.102 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:02:00.644 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:02:00.660 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:02:23.917 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:02:23.924 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:02:43.284 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:02:43.290 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:07:18.513 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:07:41.004 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:07:41.037 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:07:51.686 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:07:51.698 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:08:11.035 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:08:11.051 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:11:05.051 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:11:24.643 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:11:24.659 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:11:50.986 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:11:50.989 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:12:10.452 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:12:10.458 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:14:40.602 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:15:00.376 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:15:00.387 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:15:21.350 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:15:21.357 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:15:41.228 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+05:15:41.231 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:17:44.194 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:18:04.474 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:18:24.177 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:18:43.672 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:19:54.791 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:20:14.408 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:20:34.165 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+05:20:54.486 [TestNG-tests-1] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
